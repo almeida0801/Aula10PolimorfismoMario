@@ -1,0 +1,13 @@
+C:\Users\pc\Downloads\Projeto\Aula10PolimorfismoMario\bin\Debug\netcoreapp3.1\Aula10PolimorfismoMario.exe
+C:\Users\pc\Downloads\Projeto\Aula10PolimorfismoMario\bin\Debug\netcoreapp3.1\Aula10PolimorfismoMario.deps.json
+C:\Users\pc\Downloads\Projeto\Aula10PolimorfismoMario\bin\Debug\netcoreapp3.1\Aula10PolimorfismoMario.runtimeconfig.json
+C:\Users\pc\Downloads\Projeto\Aula10PolimorfismoMario\bin\Debug\netcoreapp3.1\Aula10PolimorfismoMario.runtimeconfig.dev.json
+C:\Users\pc\Downloads\Projeto\Aula10PolimorfismoMario\bin\Debug\netcoreapp3.1\Aula10PolimorfismoMario.dll
+C:\Users\pc\Downloads\Projeto\Aula10PolimorfismoMario\bin\Debug\netcoreapp3.1\Aula10PolimorfismoMario.pdb
+C:\Users\pc\Downloads\Projeto\Aula10PolimorfismoMario\obj\Debug\netcoreapp3.1\Aula10PolimorfismoMario.csprojAssemblyReference.cache
+C:\Users\pc\Downloads\Projeto\Aula10PolimorfismoMario\obj\Debug\netcoreapp3.1\Aula10PolimorfismoMario.csproj.CoreCompileInputs.cache
+C:\Users\pc\Downloads\Projeto\Aula10PolimorfismoMario\obj\Debug\netcoreapp3.1\Aula10PolimorfismoMario.AssemblyInfoInputs.cache
+C:\Users\pc\Downloads\Projeto\Aula10PolimorfismoMario\obj\Debug\netcoreapp3.1\Aula10PolimorfismoMario.AssemblyInfo.cs
+C:\Users\pc\Downloads\Projeto\Aula10PolimorfismoMario\obj\Debug\netcoreapp3.1\Aula10PolimorfismoMario.dll
+C:\Users\pc\Downloads\Projeto\Aula10PolimorfismoMario\obj\Debug\netcoreapp3.1\Aula10PolimorfismoMario.pdb
+C:\Users\pc\Downloads\Projeto\Aula10PolimorfismoMario\obj\Debug\netcoreapp3.1\Aula10PolimorfismoMario.genruntimeconfig.cache
